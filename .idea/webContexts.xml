@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/business/car/carManager.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/business/car" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/business/customer/customerManager.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/business/customer" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/business/rent/rentCarManager.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/business/rent" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stat/companyYearGradeStat.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stat" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stat/customerAreaStat.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stat" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stat/opernameYearGradeStat.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/stat" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/main/deskManager.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/main" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/main/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/main" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/main/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/main" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/menu/menuLeft.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/menu" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/menu/menuRight.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/menu" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/role/roleManager.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/role" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/user/userManager.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/view/system/user" />
+      </map>
+    </option>
+  </component>
+</project>
